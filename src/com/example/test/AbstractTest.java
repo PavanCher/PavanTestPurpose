@@ -14,10 +14,6 @@ public class AbstractTest extends AbstractDemo {
         test.method1();
         test.adstmethod();
         System.out.println("test executed successfully 1");
-        System.out.println("test executed successfully 2");
-        System.out.println("test executed successfully 3");
-
-
 
     }
 }
