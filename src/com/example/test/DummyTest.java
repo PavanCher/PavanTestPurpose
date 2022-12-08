@@ -9,6 +9,6 @@ public class DummyTest {
         Dummy d=new Dummy();
         d.start();
         d.setSpeed(100);
-        System.out.println("test purpose...");
+
     }
 }

@@ -13,7 +13,6 @@ public class AbstractTest extends AbstractDemo {
         AbstractTest test=new AbstractTest();
         test.method1();
         test.adstmethod();
-        System.out.println("test executed successfully 1");
 
     }
 }
